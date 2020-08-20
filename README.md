@@ -32,6 +32,8 @@ Código replicando a interface da tela inicial do Nubank com React Native com an
 
 Feito pelo tutorial da Rocketseat, porém com algumas diferenças, esta versão possui mais cards, e a fonte utilizada está mais próxima ao do app oficial.
 
+Tutorial disponível no <a href="https://www.youtube.com/watch?v=DDm0M_rZLJo">Youtube</a>
+
 
 ---
 

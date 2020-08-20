@@ -32,6 +32,8 @@ Code replicating a Nubank home screen interface with React Native with animation
 
 Made by the Rocketseat tutorial, but with some differences, this version has more cards, and the font used is closer to the official app.
 
+Available on <a href="https://www.youtube.com/watch?v=DDm0M_rZLJo">Youtube</a>
+
 ---
 
 ## **Screens**
