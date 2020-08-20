@@ -26,21 +26,20 @@
 
 ---
 
-## **Sobre o projeto**
+## **About the project**
 
-Código replicando a interface da tela inicial do Nubank com React Native com animações
+Code replicating a Nubank home screen interface with React Native with animations.
 
-Feito pelo tutorial da Rocketseat, porém com algumas diferenças, esta versão possui mais cards, e a fonte utilizada está mais próxima ao do app oficial.
-
+Made by the Rocketseat tutorial, but with some differences, this version has more cards, and the font used is closer to the official app.
 
 ---
 
 ## **Screens**
 
-- [x] Tela inicial de uma versão antiga do app:
-  - [x] Menu oculto com animações;
-  - [x] Botão Sair da conta;
-  - [x] Tabs de atalhos;
+- [x] Initial screen of an old version of the app:
+  - [x] Hidden menu with animations;
+  - [x] Exit account button;
+  - [x] Shortcut tabs;
 
 ---
 
@@ -49,32 +48,32 @@ Feito pelo tutorial da Rocketseat, porém com algumas diferenças, esta versão 
   <img src="https://user-images.githubusercontent.com/18134442/90702035-94d5d180-e260-11ea-9d35-2d8c6f211eb7.gif" alt="Preview Nubank">
 </p>
 
-#### 🎲 Executando o projeto
+#### 🎲 Running the app
 
 ```bash
 
-# Clone o repositório
+# Clone the repository
 $ git clone https://github.com/saulobraine/interface-nubank-react-native.git
 
-# Acesse a pasta do projeto no prompt de comando
+# Access project folder from prompt
 $ cd interface-nubank-react-native
 
-# Instale as dependências
+# Install the dependencies
 $ yarn
 
-# Execute o script
+# Run the script
 $ yarn start
 
-# Conecte seu telefone em USB (deve estar apto para opções de desenvolvedor e depuração USB) aguarde a instalação do aplicativo.
+# Connect your phone on USB (must able to Developer options and USB Depuration) wait for instalation of the app.
 
 ```
 ---
 
-## Agradecimentos
+## Acknowledgment
 
-Agradeço a @rocketseat. Obrigado ♥
+Thanks @rocketseat ♥
 
 ---
 
-## Licença
-Este projeto esta sobe a licença <a href="https://github.com/saulobraine/interface-nubank-react-native/blob/master/LICENSE" alt="License">MIT</a>
+## License
+This project is under the license <a href="https://github.com/saulobraine/interface-nubank-react-native/blob/master/LICENSE" alt="License">MIT</a>
