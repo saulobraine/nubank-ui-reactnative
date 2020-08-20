@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://img.shields.io/github/languages/count/saulobraine/interface-nubank-react-native?color=%23118ee5&labelColor=%23454545&style=flat" alt="Github Count Languages" />
-  <img src="https://img.shields.io/github/repo-size/saulobraine/interface-nubank-react-native?olor=%23118ee5&labelColor=%23494949&style=flat" alt="Repository size" />
-  <a href="https://github.com/saulobraine/interface-nubank-react-native/commits/master" title="GitHub last commit">
-    <img src="https://img.shields.io/github/last-commit/saulobraine/interface-nubank-react-native?color=%23118ee5&labelColor=%23454545&style=flat" alt="GitHub last commit" />
+  <img src="https://img.shields.io/github/languages/count/saulobraine/nubank-ui-reactnative?color=%23118ee5&labelColor=%23454545&style=flat" alt="Github Count Languages" />
+  <img src="https://img.shields.io/github/repo-size/saulobraine/nubank-ui-reactnative?olor=%23118ee5&labelColor=%23494949&style=flat" alt="Repository size" />
+  <a href="https://github.com/saulobraine/nubank-ui-reactnative/commits/master" title="GitHub last commit">
+    <img src="https://img.shields.io/github/last-commit/saulobraine/nubank-ui-reactnative?color=%23118ee5&labelColor=%23454545&style=flat" alt="GitHub last commit" />
   </a>
   <a href="https://www.linkedin.com/in/saulobraine/" title="By Saulo Braine">
     <img src="https://img.shields.io/badge/Made%20by-Saulo%20Braine-important?color=%23118ee5&labelColor=%23454545&style=flat" alt="By Saulo Braine" />
   </a>
   <img src="https://img.shields.io/badge/license-MIT-brightgreen?color=%23118ee5&labelColor=%23454545&style=flat" alt="License" />
   <img src="https://img.shields.io/badge/Project%20Lang-Portuguese%20🇧🇷-informational?color=%23118ee5&labelColor=%23454545&style=flat" alt="Project language" />
-  <a href="https://github.com/saulobraine/interface-nubank-react-native/blob/master/READMEen.md" title="Switch readme language">
+  <a href="https://github.com/saulobraine/nubank-ui-reactnative/blob/master/READMEen.md" title="Switch readme language">
     <img src="https://img.shields.io/badge/English%20ReadMe-Yes-important?color=%23118ee5&labelColor=%23454545&style=flat" alt="Switch readme language" />
   </a>
  </p>
@@ -56,10 +56,10 @@ Tutorial disponível no <a href="https://www.youtube.com/watch?v=DDm0M_rZLJo">Yo
 ```bash
 
 # Clone o repositório
-$ git clone https://github.com/saulobraine/interface-nubank-react-native.git
+$ git clone https://github.com/saulobraine/nubank-ui-reactnative.git
 
 # Acesse a pasta do projeto no prompt de comando
-$ cd interface-nubank-react-native
+$ cd nubank-ui-reactnative
 
 # Instale as dependências
 $ yarn
@@ -79,4 +79,4 @@ Agradeço a @rocketseat. Obrigado ♥
 ---
 
 ## Licença
-Este projeto esta sobe a licença <a href="https://github.com/saulobraine/interface-nubank-react-native/blob/master/LICENSE" alt="License">MIT</a>
+Este projeto esta sobe a licença <a href="https://github.com/saulobraine/nubank-ui-reactnative/blob/master/LICENSE" alt="License">MIT</a>
